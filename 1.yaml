@@ -1,0 +1,6 @@
+content: first vote
+option_type: single
+option:
+  - content: left
+  - content: right
+
